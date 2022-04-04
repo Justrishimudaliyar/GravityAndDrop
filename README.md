@@ -5,13 +5,13 @@ I have tried to create a simulation which will help people understand different 
 
 # ScreenShots
 <p align="center">
-<img src="Screenshot 2022-04-04 223933.jpg"> &nbsp&nbsp&nbsp&nbsp
+<img src="Screeenshots/Screenshot 2022-04-04 223933.jpg"> &nbsp&nbsp&nbsp&nbsp
 </p>
 <p align="center">
-<img src="Screenshot 2022-04-04 224024.jpg"> &nbsp&nbsp&nbsp&nbsp
+<img src="Screeenshots/Screenshot 2022-04-04 224024.jpg"> &nbsp&nbsp&nbsp&nbsp
 </p>
 <p align="center">
-<img src="Screenshot 2022-04-04 224045.jpg"> &nbsp&nbsp&nbsp&nbsp
+<img src="Screeenshots/Screenshot 2022-04-04 224045.jpg"> &nbsp&nbsp&nbsp&nbsp
 </p>
 <hr>
 
