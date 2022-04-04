@@ -5,13 +5,13 @@ I have tried to create a simulation which will help people understand different 
 
 # ScreenShots
 <p align="center">
-<img src="GravityAndDrop/Screenshot 2022-04-04 223933.jpg"> &nbsp&nbsp&nbsp&nbsp
+<img src="Screenshot 2022-04-04 223933.jpg"> &nbsp&nbsp&nbsp&nbsp
 </p>
 <p align="center">
-<img src="GravityAndDrop/Screenshot 2022-04-04 224024.jpg"> &nbsp&nbsp&nbsp&nbsp
+<img src="Screenshot 2022-04-04 224024.jpg"> &nbsp&nbsp&nbsp&nbsp
 </p>
 <p align="center">
-<img src="GravityAndDrop/Screenshot 2022-04-04 224045.jpg"> &nbsp&nbsp&nbsp&nbsp
+<img src="Screenshot 2022-04-04 224045.jpg"> &nbsp&nbsp&nbsp&nbsp
 </p>
 <hr>
 
@@ -20,5 +20,5 @@ I have tried to create a simulation which will help people understand different 
 Drag and drop the planets near the sun.
 the length of the drawn vector will represent the force by which the planet will be launched.
 Watch it's trajectory and influence due to gravitational potential of the sun.
-also see the beahvioural changes in the graph
+also see the beahvioural changes in the graph.
 
