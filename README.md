@@ -15,6 +15,7 @@ I have tried to create a simulation which will help people understand different 
 </p>
 <hr>
 
+#try it here [Gravity and Drop](https://justrishimudaliyar.github.io/GravityAndDrop/GravityAndDropBuild/index.html)
 
 ### Instructions
 Drag and drop the planets near the sun.
